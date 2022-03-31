@@ -1,0 +1,22 @@
+body {
+  background: #85C88A;
+
+}
+.container {
+  max-width: 450px;
+}
+input[type="text"],
+input[type="text"]:focus {
+  color: #F190B7;
+  border: none;
+  background: white;
+  max-width: 400px;
+}
+.todos li {
+
+  background:#8D8DAA;
+  font-family: "Montserra", sans-serif;
+}
+.delete {
+  cursor: pointer;
+}
